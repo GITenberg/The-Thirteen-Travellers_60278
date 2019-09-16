@@ -1,0 +1,34 @@
+_repo: The-Thirteen-Travellers_60278
+_version: 0.0.1
+alternative_title: The 13 Travellers
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+description: ''
+gutenberg_issued: '2019-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60278'
+  lccn: '21015428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Apartment houses -- Fiction'
+- !lcsh 'London (England) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- GITenberg
+tableOfContents: Absalom Jay -- Fanny Close -- The Hon. Clive Torby -- Miss Morganhurst
+  -- Peter Westcott -- Lucy Moon -- Mrs. Porter and Miss Allen -- Lois Drake -- Mr.
+  Nix -- Lizzie Rand -- Nobody -- Bombastes Furioso.
+title: The Thirteen Travellers
+url: http://www.gutenberg.org/ebooks/60278
